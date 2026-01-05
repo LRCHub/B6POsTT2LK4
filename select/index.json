@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Chair （『仮面ライダーギーツ』挿入歌）",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-01-05T20:43:53.341302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Chair",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_The_Chair_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Chair",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_The_Chair_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Need_Your_Rockin'_Chair_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair (Album Version)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/04_I_Don't_Need_Your_Rockin'_Chair_(Album_Version)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair - Version w/special guests",
+      "artist": "Mark Chesnutt, George Jones, Vince Gill, Patty Loveless, Garth Brooks, Clint Black, Alan Jackson, Travis Tritt, Joe Diffie, Pam Tillis & T. Graham Brown",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Need_Your_Rockin'_Chair_-_Version_w_special_guests_Mark_Chesnutt,_George_Jones,_Vince_Gill,_Patty_Loveless,_Garth_Brooks,_Clint_Bla.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Don't Need Your Rockin' Chair (Version  w/special guests)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/06_I_Don't_Need_Your_Rockin'_Chair_(Version_w_special_guests)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Chair (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/07_The_Chair_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Chair (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_The_Chair_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beanbag Chair",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/09_Beanbag_Chair_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Chair",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/10_Blue_Chair_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rocking Chair",
+      "artist": "Mr. Scruff",
+      "has_synced": false,
+      "path": "select/11_Rocking_Chair_Mr._Scruff.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rockin' Chair",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/12_Rockin'_Chair_Oasis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockin' Chair",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/13_Rockin'_Chair_Oasis.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kick the Chair",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/14_Kick_the_Chair_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rocking Chair In Hawaii",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/15_Rocking_Chair_In_Hawaii_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rockin' Chair - Demo",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/16_Rockin'_Chair_-_Demo_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chair",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_Chair_BACK-ON.txt"
+    }
+  ]
+}
