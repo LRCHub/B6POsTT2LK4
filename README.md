@@ -1,0 +1,49 @@
+# BACK-ON – Chair （『仮面ライダーギーツ』挿入歌）
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+静寂を切り裂くVersus
+感覚で読み取るAnswer
+導かれ、向かい合って
+目線の先にぶつかる
+Face to Face
+Kick 'em out of that chair 勝利へ火花散らす
+挑んでくるなら リングに上がりな
+Yeah ワンツーにクロス合わせてBang!
+スウェーで避けてハイでDown
+まだ遊んでやるぜ
+10カウントギリまで休め 1st round
+Left, right, ready set!
+一斉に勝ち取るGame
+廻り出す勇者のStep
+Chair 奪い取れ
+再生を誓ったIn my world
+その手で伸ばして届くボーダーライン
+生き残るLast いつだって条件は
+No Pain No Gain
+It's all good
+浴びるスポットライト 2位はお断り
+磨く志 常に闘魂バーニング
+歴代ベストバウト 越える対戦カード
+まじで見逃せない Show me what you've got?
+飽きさせない Highlights of the fight
+明暗が分かれたSurvivor
+王冠が選ぶのはWinner
+幾千の未知なるWay
+掻き分けてNext chair
+揺れるキミの夢
+存在を示すShout up
+涙で明日は奪えない
+もう一度ここで自分自身をTrust
+誰にも譲れない、願い 握りしめFly!
+投げたダイスが導いた未来へとDive! Right?
+闘いを越えた先もそう自分次第
+一斉に勝ち取るGame
+廻り出す勇者のStep
+Chair 奪い取れ
+再生を誓ったin my world
+その手で伸ばして届くボーダーライン
+生き残るLast いつだって条件は
+No Pain No Gain
+```
